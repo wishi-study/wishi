@@ -26,7 +26,19 @@
 <br>
 
 ## 📚 References
-<img src="https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791161757926.jpg" width="15%">
+<table>
+  <tr>
+    <td width="25%">
+      <img src="https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791161757926.jpg" width="100%">
+    </td>
+    <td width="25%">
+      <img src="https://github.com/user-attachments/assets/bb1e3543-1271-4622-8735-54fa89b55a08" width="100%">
+    </td>
+    <td width="25%"></td> 
+    <td width="25%"></td> 
+  </tr>
+</table>
+
 
 ---
 <br>
