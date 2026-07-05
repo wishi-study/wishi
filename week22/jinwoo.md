@@ -137,4 +137,4 @@
 
 clovanote.naver.com
 
-![Uploading KakaoTalk_Photo_2026-07-05-19-40-27.jpeg…]()
+<img width="3024" height="4032" alt="KakaoTalk_Photo_2026-07-05-19-40-27" src="https://github.com/user-attachments/assets/e5b2e17e-1f7f-43b8-8152-4af7b5c40571" />
