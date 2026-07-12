@@ -175,5 +175,6 @@
 참석자 2 24:04
 여기까지 해봐요.
 
+<img width="4284" height="5712" alt="KakaoTalk_Photo_2026-07-12-21-02-53" src="https://github.com/user-attachments/assets/18762350-17a1-4261-a0b9-87aff8c5c1f4" />
 
 clovanote.naver.com
