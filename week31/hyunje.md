@@ -166,3 +166,7 @@ CDN을 도입하신 이유에 대해서 좀 더 자세하게 듣고 싶습니다
 
 
 clovanote.naver.com
+
+
+<img width="3000" height="2250" alt="KakaoTalk_Photo_2026-10-04-15-29-46" src="https://github.com/user-attachments/assets/a020e5bd-d1a7-4958-9400-b803f69691d8" />
+
