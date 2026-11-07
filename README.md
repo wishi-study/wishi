@@ -34,7 +34,9 @@
     <td width="25%">
       <img src="https://github.com/user-attachments/assets/bb1e3543-1271-4622-8735-54fa89b55a08" width="100%">
     </td>
-    <td width="25%"></td> 
+    <td width="25%">
+      <img width="100%" height="490" alt="image" src="https://github.com/user-attachments/assets/ec05f452-9414-4fe2-94cc-3bf40d909ed8" />
+    </td> 
     <td width="25%"></td> 
   </tr>
 </table>
@@ -43,18 +45,5 @@
 ---
 <br>
 
-## 📜 History
 
-https://www.notion.so/okodee/2ffabb6b091e80979a08ff4df2f1d5a9?p=35dabb6b091e802b81a3cc049c93fa2b&pm=s<br>
-
-<table>
-  <tr>
-    <td width="50%">
-      <img src="https://github.com/user-attachments/assets/9f0b95d0-c7ae-40fe-ad07-78637d20c8a0" width="100%">
-    </td>
-    <td width="50%">
-      <img src="https://github.com/user-attachments/assets/cfb8e321-7ebb-4a7f-a325-8ede49666cf5" width="100%">
-    </td>
-  </tr>
-</table>
 
